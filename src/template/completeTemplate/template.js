@@ -1,6 +1,4 @@
 import React from 'react';
-import { connect } from 'react-redux';
-
 import All from '../All/All';
 import Edaran from '../Edaran/Edaran';
 import Undangan from '../Undangan/Undangan';
@@ -9,9 +7,8 @@ import Izin from '../Izin/Izin';
 import Keterangan from '../Keterangan/Keterangan';
 import Pesan from '../Pesan/Pesan';
 
-class Template extends React.Component {
+export default class Template extends React.Component {
     render() {
-
         if (this.props.enter === 'All') {
             return (
                 <All />
@@ -44,11 +41,3 @@ class Template extends React.Component {
 
     }
 }
-
-const getStateRedux = (state) => {
-    return {
-        enter: state.Template
-    }
-}
-
-export default connect(getStateRedux, null)(Template);

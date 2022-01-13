@@ -1,5 +1,4 @@
 import React from 'react';
-import Swal from 'sweetalert2';
 import '../../assets/style/homepage.css';
 import Edaran from '../Edaran/Edaran'
 import Lamaran from '../Lamaran/Lamaran'
@@ -13,10 +12,6 @@ class All extends React.Component {
     return (
       <div>
         <div className="all-wrap">
-          <div className="jumlah-surat">
-            All Template (57)
-          </div>
-
           <Edaran />
           <Undangan />
           <Lamaran />

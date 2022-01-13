@@ -53,8 +53,8 @@ class Izin extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2" name="source-html-outer" data-toggle="tooltip" data-placement="right" title="Tooltip on right">
-              <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(1)}>Download</button>
-              <div id="1" name="source-html2">
+              <div id="134343421" name="source-html2">
+              <button className="btn-download mb-3" onClick={() => exportWord(134343421)}>Download</button>
                 <p style={{ position: 'relative', fontWeight: 'normal', left: 140 }}>
                   Surabaya, 20 Mei 2019
                       </p>
@@ -101,8 +101,8 @@ class Izin extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="2" name="source-html" id="2">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(2)}>Download</button>
+              <div id="243242343" name="source-html">
+                <button className="btn-download mb-3" onClick={() => exportWord(243242343)}>Download</button>
                 <p style={{ textAlign: 'center', fontWeight: 'bold' }}>
                   surat izin karena ada kepentinagn keluarga
                         </p>
@@ -154,8 +154,8 @@ class Izin extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="3" name="source-html">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(3)}>Download</button>
+              <div id="675645353" name="source-html">
+                <button className="btn-download mb-3" onClick={() => exportWord(675645353)}>Download</button>
                 <p style={{ position: 'absolute', fontWeight: 'normal', right: 10, marginBottom: 20 }}>
                   Surabaya, 20 Mei 2019
                       </p>
@@ -207,8 +207,8 @@ class Izin extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="4" name="source-html">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(4)}>Download</button>
+              <div id="3523523524" name="source-html">
+                <button className="btn-download mb-3" onClick={() => exportWord(3523523524)}>Download</button>
                 <p style={{ position: 'absolute', fontWeight: 'normal', right: 10, marginBottom: 20 }}>
                   Sleman, 14 Maret 2018
                       </p>
@@ -262,8 +262,8 @@ class Izin extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="5" name="source-html">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(5)}>Download</button>
+              <div id="53423523" name="source-html">
+                <button className="btn-download mb-3" onClick={() => exportWord(53423523)}>Download</button>
                 <p style={{ textAlign: 'center', fontWeight: 'bold' }}>
                   ORGANISASI PRAMUKA SMA ANAK BANGSA
                       <br />
@@ -325,8 +325,8 @@ class Izin extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="6" name="source-html">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(6)}>Download</button>
+              <div id="53523526" name="source-html">
+                <button className="btn-download mb-3" onClick={() => exportWord(53523526)}>Download</button>
                 <p style={{ textAlign: 'center', fontWeight: 'bold' }}>
                   ORGANISASI PRAMUKA UNIVERSITAS TRISAKTI SURABAYA
                 <br />
@@ -393,8 +393,8 @@ class Izin extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="6" name="source-html">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(6)}>Download</button>
+              <div id="743423543" name="source-html">
+                <button className="btn-download mb-3" onClick={() => exportWord(743423543)}>Download</button>
                 <p style={{ textAlign: 'center', fontWeight: 'bold' }}>
                   UNIVERSITAS ANAK BANGSA
                     </p>
@@ -456,8 +456,8 @@ class Izin extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="6" name="source-html">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(6)}>Download</button>
+              <div id="85654543" name="source-html">
+                <button className="btn-download mb-3" onClick={() => exportWord(85654543)}>Download</button>
                 <p style={{ textAlign: 'center', fontWeight: 'bold' }}>
                   PEMERINTAH KABUPATEN MALANG
                     <br />
@@ -550,8 +550,8 @@ class Izin extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="6" name="source-html">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(6)}>Download</button>
+              <div id="43435325" name="source-html">
+                <button className="btn-download mb-3" onClick={() => exportWord(43435325)}>Download</button>
                 <p style={{ textAlign: 'center', fontWeight: 'bold' }}>
                   ORGANISASI INTRA SEKOLAH (OSIS)<br />
                 SMA NEGERI 60 KOTA BANDUNG
@@ -628,8 +628,8 @@ class Izin extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="6" name="source-html">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(6)}>Download</button>
+              <div id="342342310" name="source-html">
+                <button className="btn-download mb-3" onClick={() => exportWord(342342310)}>Download</button>
                 <p style={{ textAlign: 'center', fontWeight: 'bold' }}>
                   DEPARTEMEN PENDIDIKAN DAN KEBUDAYAAN<br />
                 SMA NEGERI 60 KOTA BANDUNG
@@ -699,8 +699,8 @@ class Izin extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="6" name="source-html">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(6)}>Download</button>
+              <div id="12343431" name="source-html">
+                <button className="btn-download mb-3" onClick={() => exportWord(12343431)}>Download</button>
                 <p style={{ textAlign: 'center', fontWeight: 'bold' }}>
                   PT. SEGAR ALAM ABADI
                 <br />
@@ -760,8 +760,8 @@ class Izin extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="6" name="source-html">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(6)}>Download</button>
+              <div id="5665612" name="source-html">
+                <button className="btn-download mb-3" onClick={() => exportWord(5665612)}>Download</button>
                 <p>
                   Medan, 22 Maret 2018
                 <br />

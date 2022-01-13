@@ -53,8 +53,8 @@ class Pesan extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2" name="source-html-outer" data-toggle="tooltip" data-placement="right" title="Tooltip on right">
-              <div id="1" name="source-html2">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(1)}>Download</button>
+              <div id="113434341" name="source-html2">
+                <button className="btn-download mb-3" onClick={() => exportWord(113434341)}>Download</button>
                 <p style={{ position: 'relative', fontWeight: 'normal' }}>
                   Untuk Kawan Terbaikku, Batu, 12 April 2019
                       <br />
@@ -133,8 +133,8 @@ class Pesan extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="2" name="source-html" id="2">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(2)}>Download</button>
+              <div id="113234432" name="source-html">
+                <button className="btn-download mb-3" onClick={() => exportWord(113234432)}>Download</button>
                 <p style={{ textAlign: 'left', fontWeight: 'normal' }}>
                   Untuk Calon Istri Tercinta, Tangerang 20 April 2019
                   <br />
@@ -202,8 +202,8 @@ class Pesan extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="3" name="source-html">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(3)}>Download</button>
+              <div id="1454513" name="source-html">
+                <button className="btn-download mb-3" onClick={() => exportWord(1454513)}>Download</button>
                 <p style={{ textAlign: 'left', fontWeight: 'normal' }}>
                   Untuk Bundaku Tercinta Malang, 15 April 2019
                     <br />
@@ -259,8 +259,8 @@ class Pesan extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="4" name="source-html">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(4)}>Download</button>
+              <div id="11412323" name="source-html">
+                <button className="btn-download mb-3" onClick={() => exportWord(11412323)}>Download</button>
                 <p style={{ textAlign: 'left', fontWeight: 'normal' }}>
                   Blitar, 14 Juni 2019
                       <br />
@@ -303,8 +303,8 @@ class Pesan extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="5" name="source-html">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(5)}>Download</button>
+              <div id="11545454" name="source-html">
+                <button className="btn-download mb-3" onClick={() => exportWord(11545454)}>Download</button>
                 <p style={{ textAlign: 'center', fontWeight: 'bold' }}>
                   Jakarta, 4 Januari 2018
                       <br />
@@ -349,8 +349,8 @@ class Pesan extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="6" name="source-html">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(6)}>Download</button>
+              <div id="11623123" name="source-html">
+                <button className="btn-download mb-3" onClick={() => exportWord(11623123)}>Download</button>
                 <p style={{ position: 'relative', fontWeight: 'normal', textAlign: 'left' }}>
                   Marina<br />
                     Jln. Melati, 20<br />
@@ -391,8 +391,8 @@ class Pesan extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="7" name="source-html">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(7)}>Download</button>
+              <div id="11213237" name="source-html">
+                <button className="btn-download mb-3" onClick={() => exportWord(11213237)}>Download</button>
                 <p style={{ textAlign: 'center', fontWeight: 'bold' }}>
                   Makassar, 6 Mei 2019
                   <br />
@@ -444,8 +444,8 @@ class Pesan extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="8" name="source-html">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(8)}>Download</button>
+              <div id="12144318" name="source-html">
+                <button className="btn-download mb-3" onClick={() => exportWord(12144318)}>Download</button>
                 <p style={{ position: 'relative', fontWeight: 'normal' }}>
                   Untuk temanku,
                   <br />
@@ -488,9 +488,9 @@ class Pesan extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="9" name="source-html">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(9)}>Download</button>
-                <p style={{ position: 'relative', fontWeight: 'normal', left: 140 }}>
+              <div id="1123123239" name="source-html">
+                <button className="btn-download mb-3" onClick={() => exportWord(1123123239)}>Download</button>
+                <p style={{ position: 'relative', fontWeight: 'normal', left: 0 }}>
                   Medan, 20 Januari 2020
                 <br />
                   <br />
@@ -528,8 +528,8 @@ class Pesan extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="10" name="source-html">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(10)}>Download</button>
+              <div id="122312320" name="source-html">
+                <button className="btn-download mb-3" onClick={() => exportWord(122312320)}>Download</button>
                 <p>
                   Samarinda, 6 april 2019
                 <br />
@@ -585,8 +585,8 @@ class Pesan extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="11" name="source-html">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(11)}>Download</button>
+              <div id="12231231231" name="source-html">
+                <button className="btn-download mb-3" onClick={() => exportWord(12231231231)}>Download</button>
                 <p style={{ textAlign: 'left', fontWeight: 'normal' }}>
                   Bogor, 24 Maret 2017
 
@@ -611,8 +611,8 @@ class Pesan extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="12" name="source-html">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(12)}>Download</button>
+              <div id="12213233" name="source-html">
+                <button className="btn-download mb-3" onClick={() => exportWord(12213233)}>Download</button>
                 <p style={{ position: 'relative', fontWeight: 'normal' }}>
                   Semarang, 17 Maret 2019
                 <br />

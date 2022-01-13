@@ -54,8 +54,8 @@ class Undangan extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2" name="source-html-outer" data-toggle="tooltip" data-placement="right" title="Tooltip on right">
-              <div id="1" name="source-html2">
-              <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(1)}>Download</button>
+              <div id="154657" name="source-html2">
+              <button className="btn-download mb-3" onClick={() => exportWord(154657)}>Download</button>
                 <p style={{ textAlign: 'center', fontWeight: 'bold' }}>
                   Undangan Pernikahan
                       <br />
@@ -96,8 +96,8 @@ class Undangan extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="2" name="source-html">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(2)}>Download</button>
+              <div id="2235646767" name="source-html">
+                <button className="btn-download mb-3" onClick={() => exportWord(2235646767)}>Download</button>
                 <p style={{ textAlign: 'center', fontWeight: 'bold' }}>
                   بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
                     <br />
@@ -145,8 +145,8 @@ class Undangan extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="3" name="source-html">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(3)}>Download</button>
+              <div id="546773" name="source-html">
+                <button className="btn-download mb-3" onClick={() => exportWord(546773)}>Download</button>
                 <p style={{ textAlign: 'center', fontWeight: 'bold' }}>
                   OSIS SMA Negeri 1 Cimahi<br />
                   <p style={{ textAlign: 'center', fontWeight: 'normal' }}>
@@ -196,8 +196,8 @@ class Undangan extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="4" name="source-html">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(4)}>Download</button>
+              <div id="46787845" name="source-html">
+                <button className="btn-download mb-3" onClick={() => exportWord(46787845)}>Download</button>
                 <p style={{ textAlign: 'left', fontWeight: 'normal' }}>
                   <p style={{ textAlign: 'center', fontWeight: 'normal' }}>
                     Sumedang , 5 Januari 2019
@@ -234,8 +234,8 @@ class Undangan extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="5" name="source-html">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(5)}>Download</button>
+              <div id="436675" name="source-html">
+                <button className="btn-download mb-3" onClick={() => exportWord(436675)}>Download</button>
                 <p style={{ textAlign: 'center', fontWeight: 'bold' }}>
                   PEMERINTAH KABUPATEN BANDUNG BARAT<br />
                   DINAS LINGKUNGAN HIDUP
@@ -292,8 +292,8 @@ class Undangan extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="6" name="source-html">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(6)}>Download</button>
+              <div id="6546576878" name="source-html">
+                <button className="btn-download mb-3" onClick={() => exportWord(6546576878)}>Download</button>
                 <p style={{ textAlign: 'center', fontWeight: 'bold' }}>
                   PEMERINTAH KABUPATEN SUMEDANG<br />
                   DINAS PENDIDIKAN<br />
@@ -346,8 +346,8 @@ class Undangan extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="7" name="source-html">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(7)}>Download</button>
+              <div id="7343457657" name="source-html">
+                <button className="btn-download mb-3" onClick={() => exportWord(7343457657)}>Download</button>
                 <p style={{ textAlign: 'center', fontWeight: 'bold' }}>
                   PENGURUS KARANG TARUNA
                   BINA PEMUDA
@@ -402,8 +402,8 @@ class Undangan extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="8" name="source-html">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(8)}>Download</button>
+              <div id="84364756" name="source-html">
+                <button className="btn-download mb-3" onClick={() => exportWord(84364756)}>Download</button>
                 <p style={{ textAlign: 'center', fontWeight: 'bold' }}>
                   KOLAM RENANG DAN PEMANDIAN<br />
                     TIRTA DUTA FAMILY
@@ -457,8 +457,8 @@ class Undangan extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="9" name="source-html">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(9)}>Download</button>
+              <div id="943554667" name="source-html">
+                <button className="btn-download mb-3" onClick={() => exportWord(943554667)}>Download</button>
                 <p style={{ textAlign: 'center', fontWeight: 'bold' }}>
                   PERUMAHAN BUMI ADIPURA<br />
                     CLUSTER TULIP RT 03 RW 04

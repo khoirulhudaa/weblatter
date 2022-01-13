@@ -17,7 +17,7 @@ class Edaran extends React.Component {
     const fileDownload = document.createElement("a");
     document.body.appendChild(fileDownload);
     fileDownload.href = source;
-    fileDownload.download = 'document.doc';
+    fileDownload.download = 'document.html';
     fileDownload.click();
     document.body.removeChild(fileDownload);
 
@@ -53,8 +53,8 @@ class Edaran extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2" name="source-html-outer" data-toggle="tooltip" data-placement="right" title="Tooltip on right">
-              <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(1)}>Download</button>
-              <div id="1" name="source-html2">
+              <div id="14353646" name="source-html2">
+              <button className="btn-download mb-3" onClick={() => exportWord(14353646)}>Download</button>
                 <p style={{ textAlign: 'center', fontWeight: 'bold' }}>
                   RUKUN TETANGGA 07/10 PERUMAHAN GRIYA MUTIARA INDAH<br />
                             DESA SRIHARJO KECAMATAN SEWON<br />
@@ -95,8 +95,8 @@ class Edaran extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(2)}>Download</button>
-              <div id="2" name="source-html" id="2">
+              <div id="2234356" name="source-html">
+              <button className="btn-download mb-3" onClick={() => exportWord(2234356)}>Download</button>
                 <p style={{ textAlign: 'center', fontWeight: 'bold' }}>
                   ORGANISASI SISWA INTRA SEKOLAH<br />
                         SMK NEGERI 1 BANTUL
@@ -149,8 +149,8 @@ class Edaran extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="3" name="source-html">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(3)}>Download</button>
+              <div id="436457654643" name="source-html">
+                <button className="btn-download mb-3" onClick={() => exportWord(436457654643)}>Download</button>
                 <p style={{ textAlign: 'center', fontWeight: 'bold' }}>
                   DIREKTORAT <br /> JENDRAL PERGURUAN TINGGI<br />
                         PROVINSI ISTIMEWA YOGYAKARTA<br />
@@ -197,8 +197,8 @@ class Edaran extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="4" name="source-html">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(4)}>Download</button>
+              <div id="4435676767" name="source-html">
+                <button className="btn-download mb-3" onClick={() => exportWord(4435676767)}>Download</button>
                 <p style={{ textAlign: 'center', fontWeight: 'bold' }}>
                   PEMERINTAH KABUPATEN SLEMAN<br />
                         DINAS PENDIDIKAN<br />
@@ -255,8 +255,8 @@ class Edaran extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="5" name="source-html">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(5)}>Download</button>
+              <div id="525565767" name="source-html">
+                <button className="btn-download mb-3" onClick={() => exportWord(525565767)}>Download</button>
                 <p style={{ textAlign: 'center', fontWeight: 'bold' }}>
                   DINAS PENDIDIKAN FORMAL DAN NON-FORMAL<br />
                             PROVINSI JAWA TIMUR<br />
@@ -317,8 +317,8 @@ class Edaran extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="6" name="source-html">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(6)}>Download</button>
+              <div id="56678786" name="source-html">
+                <button className="btn-download mb-3" onClick={() => exportWord(56678786)}>Download</button>
                 <p style={{ textAlign: 'center', fontWeight: 'bold' }}>
                   PT. SEGAR ALAM ABADI
                 <br />
@@ -362,8 +362,8 @@ class Edaran extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="6" name="source-html">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(6)}>Download</button>
+              <div id="635567677" name="source-html">
+                <button className="btn-download mb-3" onClick={() => exportWord(635567677)}>Download</button>
                 <p style={{ textAlign: 'center', fontWeight: 'bold' }}>
                   PEMERINTAH KOTA MADYA BANDA ACEH
                   KECAMATAN KUTA BARO KUTA ALAM
@@ -419,8 +419,8 @@ class Edaran extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="6" name="source-html">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(6)}>Download</button>
+              <div id="6345345767" name="source-html">
+                <button className="btn-download mb-3" onClick={() => exportWord(6345345767)}>Download</button>
                 <p style={{ textAlign: 'center', fontWeight: 'bold' }}>
                   DINAS PENDIDIKAN DAN KEBUDAYAAN KOTA BEKASI
                   SEKOLAH MENGENGAH PERTAMA NEGERI 1 BEKASI
@@ -499,8 +499,8 @@ class Edaran extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="6" name="source-html">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(6)}>Download</button>
+              <div id="456767676" name="source-html">
+                <button className="btn-download mb-3" onClick={() => exportWord(456767676)}>Download</button>
                 <p style={{ textAlign: 'center', fontWeight: 'bold' }}>
                   MAJELIS PENDIDIKAN DASAR DAN MENENGAH MUHAMMADIYAH
                 <br />
@@ -567,8 +567,8 @@ class Edaran extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="6" name="source-html">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(6)}>Download</button>
+              <div id="63545333" name="source-html">
+                <button className="btn-download mb-3" onClick={() => exportWord(63545333)}>Download</button>
                 <p style={{ textAlign: 'center', fontWeight: 'bold' }}>
                   DINAS INDUSTRI DAN PERDAGANGAN
                     <br />
@@ -625,8 +625,8 @@ class Edaran extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="6" name="source-html">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(6)}>Download</button>
+              <div id="633335454" name="source-html">
+                <button className="btn-download mb-3" onClick={() => exportWord(633335454)}>Download</button>
                 <p style={{ textAlign: 'center', fontWeight: 'bold' }}>
                   PEMERINTAHAN KABUPATEN SEMARANG
                   Jl. Pangeran Diponegoro No. 123
@@ -682,8 +682,8 @@ class Edaran extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="6" name="source-html">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(6)}>Download</button>
+              <div id="6777775656" name="source-html">
+                <button className="btn-download mb-3" onClick={() => exportWord(6777775656)}>Download</button>
                 <p style={{ textAlign: 'center', fontWeight: 'bold' }}>
                   SURAT EDARAN
                     </p>

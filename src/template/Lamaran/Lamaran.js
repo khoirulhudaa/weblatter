@@ -53,8 +53,8 @@ class Lamaran extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2" name="source-html-outer" data-toggle="tooltip" data-placement="right" title="Tooltip on right">
-              <div id="1" name="source-html2">
-              <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(1)}>Download</button>
+              <button className="btn-download mb-3" onClick={() => exportWord(1465654)}>Download</button>
+              <div id="1465654" name="source-html2">
                 <p style={{ textAlign: 'left', fontWeight: 'normal' }}>
                   Medan, 20 November 2020
                       <br />
@@ -108,8 +108,8 @@ class Lamaran extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="2" name="source-html" id="2">
-              <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(2)}>Download</button>
+              <div id="22343534" name="source-html">
+              <button className="btn-download mb-3" onClick={() => exportWord(22343534)}>Download</button>
                 <p style={{ textAlign: 'left', fontWeight: 'normal' }}>
                   Bandar Lampung, 23 November 2019
                   <br />
@@ -157,8 +157,8 @@ class Lamaran extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="3" name="source-html">
-              <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(3)}>Download</button>
+              <div id="3234235" name="source-html">
+              <button className="btn-download mb-3" onClick={() => exportWord(3234235)}>Download</button>
                 <p style={{ textAlign: 'left', fontWeight: 'normal' }}>
                   Perihal : Lamaran pekerjaan
                   <br />
@@ -210,8 +210,8 @@ class Lamaran extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="4" name="source-html">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(4)}>Download</button>
+              <div id="2354544" name="source-html">
+                <button className="btn-download mb-3" onClick={() => exportWord(2354544)}>Download</button>
                 <p style={{ textAlign: 'left', fontWeight: 'normal' }}>
                   Malang, 6 Juli 2020
                   <br />
@@ -268,8 +268,8 @@ class Lamaran extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="5" name="source-html">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(5)}>Download</button>
+              <div id="52343254" name="source-html">
+                <button className="btn-download mb-3" onClick={() => exportWord(52343254)}>Download</button>
                 <p style={{ textAlign: 'left', fontWeight: 'normal' }}>
                   Hal : lamaran pekerjaan
                   <br />
@@ -328,8 +328,8 @@ class Lamaran extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="6" name="source-html">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(6)}>Download</button>
+              <div id="6235545" name="source-html">
+                <button className="btn-download mb-3" onClick={() => exportWord(6235545)}>Download</button>
                 <p style={{ textAlign: 'left', fontWeight: 'normal' }}>
                   Medan, 20 November 2020
                       <br />
@@ -387,8 +387,8 @@ class Lamaran extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="6" name="source-html">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(6)}>Download</button>
+              <div id="2356547656" name="source-html">
+                <button className="btn-download mb-3" onClick={() => exportWord(2356547656)}>Download</button>
                 <p style={{ textAlign: 'left', fontWeight: 'normal' }}>
                   Medan, 20 November 2020
                       <br />
@@ -451,8 +451,8 @@ class Lamaran extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="6" name="source-html">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(6)}>Download</button>
+              <div id="66768743" name="source-html">
+                <button className="btn-download mb-3" onClick={() => exportWord(66768743)}>Download</button>
                 <p style={{ textAlign: 'left', fontWeight: 'normal' }}>
                   Medan, 16 Juni 2019<br />
                   Hal             : Lamaran Pekerjaan<br />
@@ -513,8 +513,8 @@ class Lamaran extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="6" name="source-html">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(6)}>Download</button>
+              <div id="6323545" name="source-html">
+                <button className="btn-download mb-3" onClick={() => exportWord(6323545)}>Download</button>
                 <p style={{ textAlign: 'left', fontWeight: 'normal' }}>
                   Medan, 20 November 2020
                       <br />
@@ -568,8 +568,8 @@ class Lamaran extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="6" name="source-html">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(6)}>Download</button>
+              <div id="632363465" name="source-html">
+                <button className="btn-download mb-3" onClick={() => exportWord(632363465)}>Download</button>
                 <p style={{ textAlign: 'left', fontWeight: 'normal' }}>
                   Yth. Bapak Manajer<br />
                       PTP. NusantarA-II (Persero)<br />
@@ -623,8 +623,8 @@ class Lamaran extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="6" name="source-html">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(6)}>Download</button>
+              <div id="63254367" name="source-html">
+                <button className="btn-download mb-3" onClick={() => exportWord(63254367)}>Download</button>
                 <p style={{ textAlign: 'left', fontWeight: 'normal' }}>
                   Hal : Lamaran Pekerjaan
                   <br />
@@ -677,8 +677,8 @@ class Lamaran extends React.Component {
 
           <div className="source-html-outer">
             <div className="source-html-outer2">
-              <div id="6" name="source-html">
-                <button className="btn btn-info text-white text-center mb-3" onClick={() => exportWord(6)}>Download</button>
+              <div id="63264676" name="source-html">
+                <button className="btn-download mb-3" onClick={() => exportWord(63264676)}>Download</button>
                 <p style={{ textAlign: 'left', fontWeight: 'normal' }}>
                   Medan, 13 Juni 2019
                   <br />
