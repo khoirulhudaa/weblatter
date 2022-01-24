@@ -44,7 +44,7 @@ class Keterangan extends React.Component {
     const { exportWord } = this;
 
     return (
-      <div>
+      <div className='ll'>
 
         <div className="jumlah-surat">
           10 Surat Tersedia (Keterangan)

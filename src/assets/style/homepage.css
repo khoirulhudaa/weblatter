@@ -80,7 +80,6 @@ body {
     padding-right: 110px;
     padding-bottom: 13px;
     width: 100%;
-    background-color: transparent;
     height: 60px;
     z-index: 999;
     transition: 0.6s;
@@ -1380,10 +1379,27 @@ label {
 
 /* Responsive mobile */
 
-@media (max-width: 900px) {
+@media screen and (max-width: 900px) {
     .navs {
         padding-right: 0px;
+    }
 
+    .source-html-outer p {
+        font-size: 14px;
+    }
+
+    .nav {
+        position: fixed;
+        z-index: 3333;
+        top: 0;
+        left: 0;
+        width: 100vw;
+    }
+
+    .nav-wrap ul li {
+        margin: 10px 2px 0px 0;
+        left: 0;
+        font-size: 15px;
     }
    
     .navi {

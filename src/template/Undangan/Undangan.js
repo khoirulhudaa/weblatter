@@ -44,7 +44,7 @@ class Undangan extends React.Component {
     const { exportWord } = this;
 
     return (
-      <div>
+      <div className='ll'>
 
         <div className="jumlah-surat">
           9 Surat Tersedia (Undangan)

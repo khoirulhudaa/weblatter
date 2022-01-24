@@ -17,7 +17,7 @@ class Izin extends React.Component {
     const fileDownload = document.createElement("a");
     document.body.appendChild(fileDownload);
     fileDownload.href = source;
-    fileDownload.download = 'document.doc';
+    fileDownload.download = 'document.docx';
     fileDownload.click();
     document.body.removeChild(fileDownload);
 
@@ -44,7 +44,7 @@ class Izin extends React.Component {
     const { exportWord } = this;
 
     return (
-      <div>
+      <div className='ll'>
 
         <div className="jumlah-surat">
           12 Surat Tersedia (Izin)

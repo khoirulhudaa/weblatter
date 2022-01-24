@@ -9,9 +9,38 @@ body {
 }
 
 .navbar {
+  position: relative;
   top: 0;
-  background-color: transparent;
   padding: 20px;
+  color: black;
+}
+
+.navbar-brand {
+  position: relative;
+  margin-top: 16px;
+}
+
+.navbar-collapse ul {
+  margin-left: auto;
+  position: absolute;
+  right: 20px;
+}
+
+.navbar-collapse ul li {
+  margin-left: 24px;
+  font-size: 19px;
+  cursor: pointer;
+  transition: 1s;
+}
+
+.navbar-collapse ul li:hover {
+  transition: 0.4s;
+  padding: 0 15px;
+  width: max-content;
+  background-color: rgb(255, 255, 255);
+  color: rgb(7, 114, 255);
+  border-radius: 999px;
+  cursor: pointer;
 }
 
 .navbar-nav {
@@ -20,8 +49,8 @@ body {
 
 .navbar-brand {
   position: relative;
+  color: rgb(7, 114, 255);
   margin-left: 20px;
-  color: #230057;
   bottom: 10px;
   font-family: 'Outfit', sans-serif;
   font-weight: bold;
@@ -34,6 +63,24 @@ body {
   color: black;
 }
 
+.modal-body a {
+  transition: 0.4s;
+}
+
+.modal-body a:hover {
+  transition: 0.4s;
+  background-color: rgb(7, 114, 255);
+  color: white;
+  border-radius: 0 500px 400px 0;
+  padding-left: 12px;
+}
+
+.modal-body a:active {
+  transition: 0.4s;
+  transform: scale(0.9);
+}
+
+
 section {
   position: relative;
   width: 100vw;
@@ -41,12 +88,22 @@ section {
   background-color: rgb(239, 233, 255);
 }
 
+.ll {
+  position: relative;
+  margin-top: -120px;
+}
+
+.wave {
+  position: relative;
+  margin-top: -120px;
+}
+
 .hero {
-  height: 70vh;
+  height: max-content;
   overflow: hidden;
   background-color: rgb(7, 114, 255);
   margin-bottom: 80px;
-  padding-bottom: 80px;
+  padding-bottom: 160px;
 }
 
 .nnn {
@@ -68,7 +125,7 @@ section {
   text-align: center;
   font-weight: bold;
   font-size: 160px;
-  margin-top: 150px;
+  margin-top: 70px;
   margin-bottom: 0px;
   color: rgb(255, 255, 255);
   margin-left: auto;
@@ -268,4 +325,45 @@ section {
   color: white;
   background-color: rgb(7, 114, 255);
   padding: 20px;
+}
+
+@media screen and (max-width: 720px) {
+  .hero h1 {
+    position: relative;
+    text-align: center;
+    font-weight: bold;
+    font-size: 70px;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    color: rgb(255, 255, 255);
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+  }
+
+  .wave {
+    margin-top: -130px;
+  }
+
+  .ll {
+    position: relative;
+    margin-top: -40px;
+  }
+    
+  .navbar-collapse ul {
+    margin-left: 0;
+    position: relative;
+    right: 0px;
+  }
+
+  .navbar-collapse ul li {
+    margin-left: 24px;
+    font-size: 19px;
+  }
+
+  .modal-body a:active {
+    transition: 0.4s;
+    transform: scale(0.9);
+  }
+
 }

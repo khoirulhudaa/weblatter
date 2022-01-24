@@ -17,7 +17,7 @@ class Edaran extends React.Component {
     const fileDownload = document.createElement("a");
     document.body.appendChild(fileDownload);
     fileDownload.href = source;
-    fileDownload.download = 'document.html';
+    fileDownload.download = 'document.doc';
     fileDownload.click();
     document.body.removeChild(fileDownload);
 
@@ -44,7 +44,7 @@ class Edaran extends React.Component {
     const { exportWord } = this;
 
     return (
-      <div>
+      <div className='ll' id='edaran'>
 
         <div className="jumlah-surat">
           12 Surat Tersedia (Edaran)

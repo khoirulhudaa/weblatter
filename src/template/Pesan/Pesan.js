@@ -44,7 +44,7 @@ class Pesan extends React.Component {
     const { exportWord } = this;
 
     return (
-      <div>
+      <div className='ll'>
 
         <div className="jumlah-surat">
           12 Surat Tersedia (Pribadi)
