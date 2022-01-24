@@ -25,7 +25,7 @@ export default class App extends React.Component {
     return (
       <>
       <Hero changeHandler={this.changeHandler} />
-      <All  style={{marginTop: '-200px'}}enter={this.state.enter} />
+      <All  style={{marginTop: '-200px'}} enter={this.state.enter} />
       <Footer/>
       </>
       );

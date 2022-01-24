@@ -8,7 +8,7 @@ export default class Hero extends Component {
             <section class="hero">
                 <nav class="navbar navbar-expand-lg navbar-dark" id="whites">
                     <div class="container-fluid">
-                        <a class="navbar-brand" href="#">Weblatter</a>
+                        <a class="navbar-brand" href="#">Weblatters</a>
                         <button class="navbar-toggler" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal">
                             <span class="navbar-toggler-icon"></span>
                         </button>
