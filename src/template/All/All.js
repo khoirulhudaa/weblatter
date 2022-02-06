@@ -11,7 +11,7 @@ class All extends React.Component {
 
     return (
       <div>
-        <div className="all-wrap">
+        <div className="all-wrap" id="all">
           <Edaran />
           <Undangan />
           <Lamaran />

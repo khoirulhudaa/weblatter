@@ -46,7 +46,7 @@ class Izin extends React.Component {
     return (
       <div className='ll'>
 
-        <div className="jumlah-surat">
+        <div className="jumlah-surat" id='izin'>
           12 Surat Tersedia (Izin)
             </div>
         <div className="wrapTemplate d-flex">

@@ -15,12 +15,12 @@ export default class Hero extends Component {
                         <div class="collapse navbar-collapse" id="navbarText">
                             <span class="navbar-text">
                             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                                <li classNmae="nav-item text-dark" onClick={() => this.props.changeHandler('Edaran')}>Edaran</li>
-                                <li classNmae="nav-item text-dark" onClick={() => this.props.changeHandler('Izin')}>Izin</li>
-                                <li classNmae="nav-item text-dark" onClick={() => this.props.changeHandler('Keterangan')}>Keterangan</li>
-                                <li classNmae="nav-item text-dark" onClick={() => this.props.changeHandler('Lamaran')}>Lamaran</li>
-                                <li classNmae="nav-item text-dark" onClick={() => this.props.changeHandler('Pesan')}>Pesan</li>
-                                <li classNmae="nav-item text-dark" onClick={() => this.props.changeHandler('Undangan')}>Undangan</li>
+                                <a href="#edaran"><li classNmae="nav-item text-dark" onClick={() => this.props.changeHandler('Edaran')}>Edaran</li></a>
+                                <a href="#okok"><li classNmae="nav-item text-dark" onClick={() => this.props.changeHandler('Izin')}>Izin</li></a>
+                                <a href="#keterangan"><li classNmae="nav-item text-dark" onClick={() => this.props.changeHandler('Keterangan')}>Keterangan</li></a>
+                                <a href="#lamaran"><li classNmae="nav-item text-dark" onClick={() => this.props.changeHandler('Lamaran')}>Lamaran</li></a>
+                                <a href="#pesan"><li classNmae="nav-item text-dark" onClick={() => this.props.changeHandler('Pesan')}>Pesan</li></a>
+                                <a href="#undangan"><li classNmae="nav-item text-dark" onClick={() => this.props.changeHandler('Undangan')}>Undangan</li></a>
                             </ul>
                         </span>
                         </div>

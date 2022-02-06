@@ -46,7 +46,7 @@ class Keterangan extends React.Component {
     return (
       <div className='ll'>
 
-        <div className="jumlah-surat">
+        <div className="jumlah-surat" id='keterangan'>
           10 Surat Tersedia (Keterangan)
             </div>
         <div className="wrapTemplate d-flex">
