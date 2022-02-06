@@ -11,13 +11,14 @@ body {
 .navbar {
   position: relative;
   top: 0;
-  padding: 20px 40px;
+  padding: 20px 0px;
   color: black;
 }
 
 .navbar-brand {
   position: relative;
   margin-top: 16px;
+  margin-left: 20px;
 }
 
 .navbar-collapse ul {
@@ -52,7 +53,7 @@ body {
 .navbar-brand {
   position: relative;
   color: rgb(7, 114, 255);
-  margin-left: 20px;
+  margin-left: 55px;
   bottom: 10px;
   font-family: 'Outfit', sans-serif;
   font-weight: bold;
@@ -356,10 +357,23 @@ section {
     position: relative;
     right: 0px;
   }
+    
+  .navbar-brand {
+    position: relative;
+    color: rgb(7, 114, 255);
+    margin-left: 5px;
+    bottom: 7px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: bold;
+  }
 
   .navbar-collapse ul li {
     margin-left: 24px;
     font-size: 19px;
+  }
+
+  .modal-body ul li a {
+    margin-left: 10px;
   }
 
   .modal-body a:active {

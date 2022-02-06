@@ -45,22 +45,22 @@ export default class Hero extends Component {
                 <div class="modal-body">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                         <li class="nav-item" onClick={() => this.props.changeHandler('Edaran')}>
-                        <a class="nav-link active" aria-current="page" href="#">Edaran</a>
+                        <a class="nav-link active" aria-current="page" href="#edaran">Edaran</a>
                         </li>
                         <li class="nav-item" onClick={() => this.props.changeHandler('Izin')}>
-                        <a class="nav-link" href="#">Izin</a>
+                        <a class="nav-link" href="#izin">Izin</a>
                         </li>
                         <li class="nav-item" onClick={() => this.props.changeHandler('Keterangan')}>
-                        <a class="nav-link" href="#">Keterangan</a>
+                        <a class="nav-link" href="#keterangan">Keterangan</a>
                         </li>
                         <li class="nav-item" onClick={() => this.props.changeHandler('Lamaran')}>
-                        <a class="nav-link" href="#">Lamaran</a>
+                        <a class="nav-link" href="#lamaran">Lamaran</a>
                         </li>
                         <li class="nav-item" onClick={() => this.props.changeHandler('Pesan')}>
-                        <a class="nav-link" href="#">Pesan</a>
+                        <a class="nav-link" href="#pesan">Pesan</a>
                         </li>
                         <li class="nav-item" onClick={() => this.props.changeHandler('Undangan')}>
-                        <a class="nav-link" href="#">Undangan</a>
+                        <a class="nav-link" href="#undangan">Undangan</a>
                         </li>
                     </ul>
                 </div>
