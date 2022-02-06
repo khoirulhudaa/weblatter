@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: rgb(239, 233, 255);;
+  background-color: rgb(255, 255, 255);;
 }
 
 .navbar {
@@ -330,17 +330,45 @@ section {
 }
 
 @media screen and (max-width: 720px) {
+  body {
+    background-color: white;
+  }
+  
   .hero h1 {
     position: relative;
     text-align: center;
     font-weight: bold;
-    font-size: 70px;
+    font-size: 80px;
     margin-top: 50px;
     margin-bottom: 0px;
     color: rgb(255, 255, 255);
     margin-left: auto;
     margin-right: auto;
     width: 90%;
+  }
+    
+  .btn-purple {
+    position: relative;
+    border: none;
+    margin-bottom: 0px;
+    outline: none;
+    border-radius: 1000px;
+    cursor: pointer;
+    color: rgb(0, 152, 223);
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    width: 260px;
+    font-weight: bold;
+    margin-left: auto;
+    top: 40px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-right: auto;
+    font-size: 18px;
+    height: 55px;
+    font-family: 'Open Sans', sans-serif;
+    transition: 0.4s;
   }
 
   .wave {
