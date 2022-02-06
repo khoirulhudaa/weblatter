@@ -1383,7 +1383,7 @@ label {
         
     .source-html-outer:hover {
         transition: 0.8s;
-        transform: scale(1)
+        transform: scale(0.80   )
     }
 
     .navs {
@@ -1467,7 +1467,7 @@ label {
         border-radius: 3px;
         transform: scale(0.80);
         height: 500px;
-        margin: 0;
+        margin: 0 0 0 0;
         width: 100%;
         padding: 20px;
         box-shadow: 0 0px 8px rgb(224, 224, 224);
