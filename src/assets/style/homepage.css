@@ -1380,6 +1380,12 @@ label {
 /* Responsive mobile */
 
 @media screen and (max-width: 900px) {
+        
+    .source-html-outer:hover {
+        transition: 0.8s;
+        transform: scale(1)
+    }
+
     .navs {
         padding-right: 0px;
     }
